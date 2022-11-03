@@ -34,5 +34,6 @@ class HelloWorld {
         
 	// Edit
 		System.out.println("Edited");
+	System.out.println("Hello");
     }
 }
